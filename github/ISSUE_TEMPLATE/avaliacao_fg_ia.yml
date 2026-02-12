@@ -1,0 +1,61 @@
+Roteiro de Entrevista – Funções Gratificadas (FG) com IA na CAIXA
+
+ 
+
+Este repositório contém um **roteiro prático** para entrevistas de FG em áreas que utilizam **Inteligência Artificial** na CAIXA, pensado para quem **não é da área técnica**.
+
+ 
+
+## Objetivos
+
+- Conduzir entrevistas consistentes, éticas e focadas em **valor público**.
+
+- Avaliar 7 dimensões essenciais (motivação, experiência, ética/LGPD, dados, técnica, colaboração, aprendizado).
+
+- Registrar resultados e planos de desenvolvimento.
+
+ 
+
+## Como usar
+
+1. Abra `prompt_entrevistador.md` e copie o **Prompt Mestre** para sua IA (Copilot/ChatGPT).
+
+2. Conduza a entrevista (30–40 min) usando o roteiro de 7 perguntas.
+
+3. Abra **Issues → New issue** e selecione o template:
+
+   - **Avaliação de Entrevista – FG com IA** para registrar a entrevista.
+
+   - **Indicação de Carreira – Front-End** para simular uma recomendação de trilha.
+
+4. Preencha a rubrica (0–3) e a recomendação; registre plano de 90 dias.
+
+ 
+
+## Estrutura
+
+- `prompt_entrevistador.md` – prompt pronto para IA.
+
+- `.github/ISSUE_TEMPLATE/avaliacao_fg_ia.yml` – template para registrar cada entrevista.
+
+- `.github/ISSUE_TEMPLATE/indicacao_frontend.yml` – template para simular indicação para Front-End.
+
+- `docs/` (opcional) – políticas internas e referências.
+
+ 
+
+## Ética e LGPD
+
+- Não colete dados sensíveis.
+
+- Princípios: minimização de dados, revisão humana, explicabilidade, auditoria.
+
+- Consulte e siga as diretrizes internas da CAIXA.
+
+ 
+
+## Licença
+
+Uso educacional/demonstrativo. Ajuste conforme necessário.
+
+ 
