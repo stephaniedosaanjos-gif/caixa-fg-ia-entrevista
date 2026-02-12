@@ -1,0 +1,59 @@
+name: Indicação de Carreira – Front-End
+
+description: Registro da simulação de indicação de carreira para Front-End (FG com foco digital)
+
+title: "[Indicação] {Candidato} – Front-End – {Área}"
+
+labels: ["carreira", "frontend", "avaliacao"]
+
+body:
+
+  - type: textarea
+
+    id: evidencias
+
+    attributes:
+
+      label: Evidências resumidas (7 perguntas)
+
+      description: Interesses, experiência, estudo, preferências, objetivos, ética/LGPD, estudo de caso
+
+  - type: textarea
+
+    id: texto
+
+    attributes:
+
+      label: Saída textual (IA)
+
+      description: Cole aqui o texto para humanos
+
+  - type: textarea
+
+    id: json
+
+    attributes:
+
+      label: Saída JSON (IA)
+
+      description: Cole aqui o JSON gerado (recomendacao, plano 90 dias, métricas etc.)
+
+  - type: textarea
+
+    id: observacoes
+
+    attributes:
+
+      label: Observações do entrevistador
+
+  - type: input
+
+    id: proxima
+
+    attributes:
+
+      label: Próxima avaliação (dias)
+
+``
+
+ 
